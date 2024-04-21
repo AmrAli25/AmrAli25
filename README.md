@@ -5,7 +5,6 @@ Software Testing Engineer
 -------------------------------------------------
 
 - 🔭 I’m currently working on my skills and info with Automation using Java and Selenium ecosystems
-- 🌱 I’m currently learning a new framework called SHAFT_ENGINE
 - 📫 How to reach me: you can find me by email at (amraliahmed25@gmail.com) or through my social platforms provided below
 
 ### Skills
